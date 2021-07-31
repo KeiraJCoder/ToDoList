@@ -8,11 +8,11 @@
     "complete": true
   }, {
     "id": 3,
-    "task": "Vacuum floor",
+    "task": "Hoover",
     "complete": false
   }, {
     "id": 4,
-    "task": "Feed cat",
+    "task": "Feed cast",
     "complete": true
   }, {
     "id": 5,
@@ -20,15 +20,15 @@
     "complete": false
   }, {
     "id": 6,
-    "task": "Go to Store",
+    "task": "Go shopping",
     "complete": true
   }, {
     "id": 7,
-    "task": "Fill gas tank",
+    "task": "Get Petrol",
     "complete": true
   }, {
     "id": 8,
-    "task": "Change linens",
+    "task": "Change bed clothes",
     "complete": false
   }, {
     "id": 9,
@@ -36,7 +36,7 @@
     "complete": true
   }, {
     "id": 10,
-    "task": "Bake Cookies",
+    "task": "Bake Bananbread",
     "complete": false
   }, {
     "id": 11,
@@ -60,7 +60,7 @@
     "complete": false
   }, {
     "id": 16,
-    "task": "Vacuum floor",
+    "task": "Hoover floor",
     "complete": false
   }, {
     "id": 17,
@@ -68,14 +68,14 @@
     "complete": true
   }, {
     "id": 18,
-    "task": "Change light bulbs",
+    "task": "Change light bulb",
     "complete": false
   }, {
     "id": 19,
-    "task": "Go to Store",
+    "task": "Go to Shops",
     "complete": false
   }, {
     "id": 20,
-    "task": "Fill gas tank",
+    "task": "Get Petrol",
     "complete": false
   }]
